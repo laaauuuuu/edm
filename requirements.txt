@@ -1,4 +1,3 @@
 plotly
 altair
-PIL
 pmdarima
